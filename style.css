@@ -340,6 +340,9 @@ footer .column > a:hover{
     header .image{
         grid-area: 1/1/2/2;
     }
+    .cell{
+        display: none;
+    }
     .features{
         grid-template-columns: repeat(2, 1fr);
     }
